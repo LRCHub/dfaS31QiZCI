@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヨーロービル、朝",
+  "base_artist": "ハルカミライ",
+  "createdAt": "2026-02-15T05:12:37.200359Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヨーロービル、朝",
+      "artist": "ハルカミライ",
+      "has_synced": false,
+      "path": "select/pl_01_ヨーロービル、朝_ハルカミライ.txt"
+    }
+  ]
+}
